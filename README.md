@@ -9,3 +9,7 @@
 2. sola
 3. kola
 ## tools used
+
+``` Sql
+SELECT * FOMM TABLE1 WHERE CONDITION = TRUE
+```
