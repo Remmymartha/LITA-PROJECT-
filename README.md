@@ -8,6 +8,11 @@
 
 ### This  is where I documented my first project while advancing my learrning in data analysis
 
+
+
+![Screenshot (4)](https://github.com/user-attachments/assets/3616269d-218b-4cd6-b330-0f866a83e019)
+
+
 - ok
        - my first
        - project
@@ -42,3 +47,8 @@ SELECT * FROM TABLE1 WHERE CONDITION = TRUE
 
 
 'dodo'
+
+
+
+
+![Screenshot (8)](https://github.com/user-attachments/assets/0a61cac1-61f1-45ca-a09c-7b2ef82c4e36)
