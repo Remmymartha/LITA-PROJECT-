@@ -1,15 +1,23 @@
 # LITA-PROJECT-
 ---
 ## Wonderful achievement for 2024
-
+|heading1|heading2|
+|---------|---------|
+|content 1|content2|
+|sql|python|
 
 ### This  is where I documented my first project while advancing my learrning in data analysis
+
 - ok
-     - my first
+       - my first
        - project
        -  while advancing my 
 
 - ![Screenshot (3)](https://github.com/user-attachments/assets/4295cdba-ee9d-40a8-a4d6-9decfd49abfd)
+
+##project overview
+---
+
 
 ###### Great job
 
@@ -27,3 +35,10 @@ SELECT * FROM TABLE1 WHERE CONDITION = TRUE
 
 
 😺
+
+
+
+**column1**
+
+
+'dodo'
