@@ -5,6 +5,9 @@
 
 ### This  is where I documented my first project while advancing my learrning in data analysis
 - ok
+     - my first
+       - project
+       -  while advancing my 
 
 - ![Screenshot (3)](https://github.com/user-attachments/assets/4295cdba-ee9d-40a8-a4d6-9decfd49abfd)
 
@@ -20,3 +23,7 @@
 ``` Sql
 SELECT * FROM TABLE1 WHERE CONDITION = TRUE
 ```
+💻
+
+
+😺
